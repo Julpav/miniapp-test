@@ -5,7 +5,7 @@
   "entry": "ExampleApp",
   "description": "Copy-paste starter for a new mini-app.",
   "colors": ["#3D7BF7", "#1D3C9E"],
-  "glyph": "",
+  "glyph": "j",
   "icon": "https://media.discordapp.net/attachments/438961071433449492/1572088572394213498/image.png?ex=6afd1913&is=6afbc793&hm=d25a2f288c5be576a10626270d97fc34c45c75da4fc446368ddf0f7467a2124e&format=webp&quality=lossless",
   "permissions": []
 }
