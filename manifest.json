@@ -1,0 +1,11 @@
+{
+  "id": "example",
+  "name": "Example",
+  "version": "1.0.0",
+  "entry": "ExampleApp",
+  "description": "Copy-paste starter for a new mini-app.",
+  "colors": ["#3D7BF7", "#1D3C9E"],
+  "glyph": "✺",
+  "icon": null,
+  "permissions": []
+}
